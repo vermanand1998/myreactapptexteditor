@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/texteditormynewtonprojec/static/css/main.a617e044.chunk.css",
-    "main.js": "/texteditormynewtonprojec/static/js/main.c706b732.chunk.js",
-    "main.js.map": "/texteditormynewtonprojec/static/js/main.c706b732.chunk.js.map",
-    "runtime-main.js": "/texteditormynewtonprojec/static/js/runtime-main.7d9aedb9.js",
-    "runtime-main.js.map": "/texteditormynewtonprojec/static/js/runtime-main.7d9aedb9.js.map",
-    "static/js/2.3417f5dc.chunk.js": "/texteditormynewtonprojec/static/js/2.3417f5dc.chunk.js",
-    "static/js/2.3417f5dc.chunk.js.map": "/texteditormynewtonprojec/static/js/2.3417f5dc.chunk.js.map",
-    "static/js/3.9e0a39a1.chunk.js": "/texteditormynewtonprojec/static/js/3.9e0a39a1.chunk.js",
-    "static/js/3.9e0a39a1.chunk.js.map": "/texteditormynewtonprojec/static/js/3.9e0a39a1.chunk.js.map",
-    "index.html": "/texteditormynewtonprojec/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/texteditormynewtonprojec/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.3417f5dc.chunk.js.LICENSE.txt": "/texteditormynewtonprojec/static/js/2.3417f5dc.chunk.js.LICENSE.txt"
+    "main.css": "/texteditornewtonproject/static/css/main.a617e044.chunk.css",
+    "main.js": "/texteditornewtonproject/static/js/main.c706b732.chunk.js",
+    "main.js.map": "/texteditornewtonproject/static/js/main.c706b732.chunk.js.map",
+    "runtime-main.js": "/texteditornewtonproject/static/js/runtime-main.81226b13.js",
+    "runtime-main.js.map": "/texteditornewtonproject/static/js/runtime-main.81226b13.js.map",
+    "static/js/2.3417f5dc.chunk.js": "/texteditornewtonproject/static/js/2.3417f5dc.chunk.js",
+    "static/js/2.3417f5dc.chunk.js.map": "/texteditornewtonproject/static/js/2.3417f5dc.chunk.js.map",
+    "static/js/3.9e0a39a1.chunk.js": "/texteditornewtonproject/static/js/3.9e0a39a1.chunk.js",
+    "static/js/3.9e0a39a1.chunk.js.map": "/texteditornewtonproject/static/js/3.9e0a39a1.chunk.js.map",
+    "index.html": "/texteditornewtonproject/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/texteditornewtonproject/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3417f5dc.chunk.js.LICENSE.txt": "/texteditornewtonproject/static/js/2.3417f5dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d9aedb9.js",
+    "static/js/runtime-main.81226b13.js",
     "static/js/2.3417f5dc.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.c706b732.chunk.js"
